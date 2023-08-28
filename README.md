@@ -22,14 +22,3 @@ Atualmente estudo Sistemas de Informação no If Goiano - Campus Ceres.
 ## GitHub Stats
 
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=mariannyneris2004&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
-
-## Minhas Contribuições
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=LucasHARosa&repo=IMDB_Ada_Santander&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/LucasHARosa/IMDB_Ada_Santander)
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=mariannyneris2004&repo=santander-coders&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/mariannyneris2004/santander-coders)
-
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=mariannyneris2004&repo=curso-html-css-alura&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/mariannyneris2004/curso-html-css-alura)
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=mariannyneris2004&repo=cursos-alura-java&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/mariannyneris2004/cursos-alura-java)
-
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=mariannyneris2004&repo=exercicios-ipc-faculdade&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/mariannyneris2004/exercicios-ipc-faculdade)
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=mariannyneris2004&repo=recrutamento-web&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/mariannyneris2004/recrutamento-web)
-
