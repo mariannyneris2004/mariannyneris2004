@@ -1,8 +1,10 @@
 # Marianny Neris
 
-## Sobre mim
-Apaixonada por tecnologia, autodidata e dinâmica, busco uma oportunidade para expandir meus conhecimentos na área e contribuir para o desenvolvimento de soluções tecnológicas buscando sempre objetividade, dinamismo e eficiência na construção dos códigos.
-Atualmente estudo Sistemas de Informação no If Goiano - Campus Ceres.
+## Formação
+<p>Atualmente estudo Sistemas de Informação no If Goiano - Campus Ceres.</p>
+<p>Santander Coders 2023 - Back-End Java</p>
+<p>Santander Bootcamp 2023 - FullStack Angular+Java</p>
+<p>Aluna Alura</p>
 
 ## Conecte-se Comigo
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/marianny-neris-ferreira-497160213/)
