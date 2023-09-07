@@ -7,7 +7,7 @@
 <p>Aluna Alura</p>
 
 ## Conecte-se Comigo
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/marianny-neris-ferreira-497160213/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/marianny-neris-ferreira/)
 [![Discord](https://img.shields.io/badge/Discord-000?style=for-the-badge&logo=discord)](https://www.discord.com/in/mariannyneris/)
 [![Instagram](https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram)](https://www.instagram.com/mariannyneris/)
 [![GitHub](https://img.shields.io/badge/Github-000?style=for-the-badge&logo=github)](https://www.github.com/mariannyneris2004/)
