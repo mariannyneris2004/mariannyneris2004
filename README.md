@@ -1,4 +1,5 @@
 # Marianny Neris
+Apaixonada por tecnologia, autodidata e dinâmica, busco contribuir para o desenvolvimento de soluções tecnológicas com objetividade, dinamismo e eficiência.
 
 ## Formação
 <p>Atualmente estudo Sistemas de Informação no If Goiano - Campus Ceres.</p>
