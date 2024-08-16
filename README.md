@@ -2,7 +2,7 @@
 Apaixonada por tecnologia, autodidata e dinâmica, busco contribuir para o desenvolvimento de soluções tecnológicas com objetividade, dinamismo e eficiência.
 
 ## Formação
-<p>Atualmente estudo Sistemas de Informação no If Goiano - Campus Ceres.</p>
+<p>Atualmente estudo Sistemas de Informação na Unopar.</p>
 <p>Santander Coders 2023 - Back-End Java</p>
 <p>Santander Bootcamp 2023 - FullStack Angular+Java</p>
 <p>Aluna Alura</p>
