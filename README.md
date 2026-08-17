@@ -1,27 +1,86 @@
-# Marianny Neris
-Apaixonada por tecnologia, autodidata e dinâmica, busco contribuir para o desenvolvimento de soluções tecnológicas com objetividade, dinamismo e eficiência.
+# Hi, I'm Marianny 👋
 
-## Formação
-<p>Atualmente estudo Sistemas de Informação na Unopar.</p>
-<p>Santander Coders 2023 - Back-End Java</p>
-<p>Santander Bootcamp 2023 - FullStack Angular+Java</p>
-<p>Aluna Alura</p>
+I'm a **Software Engineer focused on Java Backend development**, currently working with large-scale logistics solutions at **Grupo Casas Bahia**.
 
-## Conecte-se Comigo
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/marianny-neris-ferreira/)
-[![Discord](https://img.shields.io/badge/Discord-000?style=for-the-badge&logo=discord)](https://www.discord.com/in/mariannyneris/)
-[![Instagram](https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram)](https://www.instagram.com/mariannyneris/)
-[![GitHub](https://img.shields.io/badge/Github-000?style=for-the-badge&logo=github)](https://www.github.com/mariannyneris2004/)
-[![Perfil DIO](https://img.shields.io/badge/Dio-000?style=for-the-badge&logo=dio)](https://web.dio.me/users/mariannyneris2004?tab=skills)
+My professional experience includes building and maintaining backend applications, system integrations and microservices using **Java, Spring Boot, RabbitMQ, MongoDB and Redis**, with a strong focus on reliability, maintainability and clean code.
 
-## Habilidades
-![Java](https://img.shields.io/badge/Java-000?style=for-the-badge&logo=java)
-![C++](https://img.shields.io/badge/C%2B%2B-000?style=for-the-badge&logo=c%2B%2B&logoColor=00599C)
-![HTML5](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=264CE4)
-![Angular](https://img.shields.io/badge/Angular-000?style=for-the-badge&logo=angular&logoColor=C3002F)
-![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git)
+## 💻 Tech Stack
 
-## GitHub Stats
+**Backend**
 
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=mariannyneris2004&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
+* Java
+* Spring Boot
+* REST APIs
+* Microservices
+* JDBC
+
+**Databases & Messaging**
+
+* PostgreSQL
+* MySQL
+* SQL Server
+* MongoDB
+* Redis
+* RabbitMQ
+
+**Testing & Tools**
+
+* JUnit
+* Mockito
+* Postman
+* Maven
+* Git & GitHub
+* Swagger / OpenAPI
+* JWT
+
+**Frontend experience**
+
+* Angular
+* TypeScript
+* JavaScript
+* Thymeleaf
+* HTML & CSS
+
+## 🚀 What I'm working on
+
+I'm currently developing **Manager Burger Store**, a personal project I'm using to deepen my knowledge of backend development, business rules and application architecture with Java and Spring Boot.
+
+I'm also continuously improving my knowledge of the Java ecosystem, software architecture, testing and backend engineering practices.
+
+## 📌 Featured Project
+
+### 🎬 Ada Movie Project
+
+RESTful API for movie management built with **Java and PostgreSQL**, featuring:
+
+* JWT authentication
+* REST API integration
+* Swagger UI documentation
+* PostgreSQL database
+* Integration with the TMDB external API
+
+This project was developed as part of my Java backend learning journey and represents one of the foundations of my current backend experience.
+
+## 🎓 Education
+
+**B.Sc. in Information Systems**
+Expected graduation: **June 2027**
+
+**Ada Tech — Santander Coders**
+Backend Java — 324h
+
+## 🌱 Currently improving
+
+* Advanced Java
+* Spring ecosystem
+* Software architecture
+* Automated testing
+* Clean Code and SOLID
+* Backend scalability
+* Cloud and containerization fundamentals
+
+## 🤝 Let's connect
+
+I'm interested in **Java Backend and Software Engineering opportunities**, especially in remote and distributed teams.
+
+[LinkedIn](https://www.linkedin.com/in/marianny-neris-ferreira/)
